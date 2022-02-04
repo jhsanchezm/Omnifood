@@ -11,4 +11,4 @@ This is a website from a delivery food webpage, and the technologies and topics 
 7. A bit of Javascript
 
 
-This webpage was made by academic and practical purpouse from the course "Build Responsive Real-World Websites with HTML and CSS, by Jonas Schedtmann"
+This webpage was made for academic and practical purpouse from the course "Build Responsive Real-World Websites with HTML and CSS, by Jonas Schedtmann"
